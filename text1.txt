@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A00B-F304
+
+ Directory of C:\Users\RS57532\Desktop\Git_hands_on
+
+02/26/2021  02:26 PM    <DIR>          .
+02/26/2021  02:26 PM    <DIR>          ..
+02/26/2021  02:26 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  68,661,825,536 bytes free
